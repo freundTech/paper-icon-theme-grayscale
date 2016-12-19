@@ -3,7 +3,7 @@
 cd cursors
 
 # Render cursors
-python render-cursors.py source-cursors.svg
+python2 render-cursors.py source-cursors.svg
 
 # Make cursor theme
 echo "Building cursor theme..."
